@@ -1,0 +1,181 @@
+baseURL = "https://shicheng-cao.github.io/"
+title = "Shicheng Cao"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+paginate = "7"
+theme = "spectral"
+
+[params]
+fancyTitle = "Shicheng Cao" # title for frontpage, may include image
+copyright = "Shicheng Cao"
+description = "Film Scoring Composer | Conductor | Violist"
+# long_description = "After receiving systematic classical music training in China, Shicheng Cao went to France in 2019 to study management at <a href='https://www.skema.edu/skema/news-room/ranking'>Skema Business School</a>. Later, in order to pursue his musical dream, Shicheng Cao entered the Berklee College of Music in 2021 as a violist for further studies in the Screen scoring major and Conducting minor, which is one of the best film music composition programs in the world. He successively studied with  famous film scoring composer <a href='https://www.imdb.com/name/nm9116384'>Qingnan Ma</a> and music producer <a href='#'>Mansy Yang</a>. So far, he has independently completed a number of film and television music creations with different themes."
+startbuttonText = "IMDB Profile"
+startbuttonLink = "https://www.imdb.com/name/nm14064796/?ref_=nmbio_bio_nm"
+body_is_markdown = true
+#custom_css = "foo.css"
+# images = ["path_to_social_image_for_link_previews.jpg"]
+
+# [[params.menu.main]]
+# url = 'mailto:scao3@berklee.edu'
+# title = "Contact"
+
+[[params.menu.main]]
+url = 'https://www.linkedin.com/in/shicheng-cao-2152b6224/'
+title = "LinkedIn"
+
+# [[params.menu.main]]
+# url = '/posts/'
+# title = "Posts"
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    series = "series"
+
+[params.one]
+enable = false
+title = 'Arcu aliquet vel lobortis ata nisl<br />eget augue amet aliquet nisl cep donec'
+body = '''
+Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
+fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
+'''
+
+[[params.one.icon]]
+icon = "fa-diamond"
+style = "1"
+label = "Lorem"
+
+[[params.one.icon]]
+icon = "fa-heart-o"
+style = "2"
+label = "Ipsum"
+
+[[params.one.icon]]
+icon = "fa-code"
+style = "3"
+label = "Dolor"
+
+[params.two]
+enable = true
+
+[[params.two.section]]
+img = "img/lfa.jpg"
+title = '<a href="https://www.instagram.com/reel/CibOR4zpZ53/?utm_source=ig_web_copy_link">Litac Film Advertisement 01</a>'
+body = ''
+
+[[params.two.section]]
+img = "img/car_thief.jpg"
+title = 'Car Thief'
+body = 'On the last trip of a broken family, Alex is instructed by his frightening mother to steal a car key from his father.'
+
+[[params.two.section]]
+img = "img/nirvana.jpg"
+title = 'Nirvana'
+body = "In the case of secret agents, Mike's mutiny initiated a private organization's wanted for Mike, but Li thought that everything was not that simple, so he organized Mike's self-help willingness under the organization's own actions."
+
+[[params.two.section]]
+img = "img/stand_ready.jpeg"
+title = '<a href="https://m.youtube.com/watch?v=mDLMUkUmZEY&feature=youtu.be">Standy Ready</a>'
+body = 'As more danger emerges from urban environment, the region urgently needs a force to maintain stabilization. A special task force is summoned; they have one goal and one goal only: finish the mission.'
+
+[[params.two.section]]
+img = "img/elaine.jpeg"
+title = 'Elaine'
+body = 'A young girl, Elaine, who leads an empty life, falls in love with the lady Scarlett. Elaine follows Scarlett with paranoia and madness. Finally, they both fall into abyss.'
+
+[[params.two.section]]
+img = "img/shenzhen.jpg"
+title = 'Shenzhen Metro Line 7 Zhuguang Station "The morning"'
+body = 'Artist : Wang Lingling,  English creative planning : Shicheng Cao'
+
+
+
+# [[params.two.section]]
+# img = "img/the_cracks_between_us.jpeg"
+# title = 'The Cracks Between Us'
+# body = ''
+
+[[params.two.section]]
+img = "img/deer_bay_english.jpeg"
+title = 'Deer Bay English'
+body = 'No matter where you are, open the App store and enter 小鹿湾, now you can enjoy all different kinds of music which mainly composed by Shicheng Cao while learning English.'
+
+# [params.three]
+# enable = true
+# title = 'Accumsan mus tortor nunc aliquet'
+# body = '''
+# Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
+# fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
+# '''
+
+# [[params.three.feature]]
+# icon = "fa-paper-plane-o"
+# title = "Arcu accumsan"
+# body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+
+# [[params.three.feature]]
+# icon = "fa-laptop"
+# title = "Ac Augue Eget"
+# body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+
+# [[params.three.feature]]
+# icon = "fa-code"
+# title = "Foo bar"
+# body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+
+# [[params.three.feature]]
+# icon = "fa-headphones"
+# title = "Baz kram"
+# body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+
+# [[params.three.feature]]
+# icon = "fa-heart-o"
+# title = "Some latin text"
+# body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+
+# [[params.three.feature]]
+# icon = "fa-flag-o"
+# title = "Nothing important"
+# body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+
+[params.cta]
+enable = true
+title = "To be continued"
+# body = "Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla."
+
+[[params.cta.link]]
+href = "#"
+text = "IMDB Profile"
+special = true
+
+# [[params.cta.link]]
+# href = "#"
+# text = "Learn More"
+# special = false
+
+# [params.contact]
+# enable = true
+# title = "Contact"
+# body = "Leave us a message."
+# phone = "+49 (0) 030 000 000"
+# address = "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country"
+# email = "nospam@example.com"
+# subject = "New Submission!"
+# plain = false
+
+[params.social]
+twitter = ""
+facebook = ""
+instagram = "shichengcao"
+dribble = ""
+
+[params.contact]
+email = "scao3@berklee.com"
+phone = "1"
+
+# language specific options
+
+[languages.en]
+weight = 0
+languageName = "English"
