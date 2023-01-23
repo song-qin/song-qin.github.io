@@ -1,13 +1,14 @@
 baseURL = "https://shicheng-cao.github.io/"
-title = "Shicheng Cao"
+title = "Song Qin"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 paginate = "7"
 theme = "spectral"
+publishDir = "docs"
 
 [params]
-fancyTitle = "Shicheng Cao" # title for frontpage, may include image
-copyright = "Shicheng Cao"
+fancyTitle = "秦 诵" # title for frontpage, may include image
+copyright = "秦 诵"
 description = "Film Scoring Composer | Conductor | Violist"
 # long_description = "After receiving systematic classical music training in China, Shicheng Cao went to France in 2019 to study management at <a href='https://www.skema.edu/skema/news-room/ranking'>Skema Business School</a>. Later, in order to pursue his musical dream, Shicheng Cao entered the Berklee College of Music in 2021 as a violist for further studies in the Screen scoring major and Conducting minor, which is one of the best film music composition programs in the world. He successively studied with  famous film scoring composer <a href='https://www.imdb.com/name/nm9116384'>Qingnan Ma</a> and music producer <a href='#'>Mansy Yang</a>. So far, he has independently completed a number of film and television music creations with different themes."
 startbuttonText = "IMDB Profile"
