@@ -10,7 +10,7 @@ publishDir = "docs"
 fancyTitle = "秦 诵" # title for frontpage, may include image
 copyright = "秦 诵"
 description = "Film Scoring Composer | Conductor | Violist"
-# long_description = "After receiving systematic classical music training in China, Shicheng Cao went to France in 2019 to study management at <a href='https://www.skema.edu/skema/news-room/ranking'>Skema Business School</a>. Later, in order to pursue his musical dream, Shicheng Cao entered the Berklee College of Music in 2021 as a violist for further studies in the Screen scoring major and Conducting minor, which is one of the best film music composition programs in the world. He successively studied with  famous film scoring composer <a href='https://www.imdb.com/name/nm9116384'>Qingnan Ma</a> and music producer <a href='#'>Mansy Yang</a>. So far, he has independently completed a number of film and television music creations with different themes."
+# long_description = "After receiving systematic classical music training in China, Song Qin(as Shicheng Cao) went to France in 2019 to study management at <a href='https://www.skema.edu/skema/news-room/ranking'>Skema Business School</a>. Later, in order to pursue his musical dream, Song Qin(as Shicheng Cao) entered the Berklee College of Music in 2021 as a violist for further studies in the Screen scoring major and Conducting minor, which is one of the best film music composition programs in the world. He successively studied with  famous film scoring composer <a href='https://www.imdb.com/name/nm9116384'>Qingnan Ma</a> and music producer <a href='#'>Mansy Yang</a>. So far, he has independently completed a number of film and television music creations with different themes."
 startbuttonText = "IMDB Profile"
 startbuttonLink = "https://www.imdb.com/name/nm14064796/?ref_=nmbio_bio_nm"
 body_is_markdown = true
@@ -88,7 +88,7 @@ body = 'A young girl, Elaine, who leads an empty life, falls in love with the la
 [[params.two.section]]
 img = "img/shenzhen.jpg"
 title = 'Shenzhen Metro Line 7 Zhuguang Station "The morning"'
-body = 'Artist : Wang Lingling,  English creative planning : Shicheng Cao'
+body = 'Artist : Wang Lingling,  English creative planning : Song Qin(as Shicheng Cao)'
 
 
 
@@ -100,7 +100,7 @@ body = 'Artist : Wang Lingling,  English creative planning : Shicheng Cao'
 [[params.two.section]]
 img = "img/deer_bay_english.jpeg"
 title = 'Deer Bay English'
-body = 'No matter where you are, open the App store and enter 小鹿湾, now you can enjoy all different kinds of music which mainly composed by Shicheng Cao while learning English.'
+body = 'No matter where you are, open the App store and enter 小鹿湾, now you can enjoy all different kinds of music which mainly composed by Song Qin(as Shicheng Cao) while learning English.'
 
 # [params.three]
 # enable = true
