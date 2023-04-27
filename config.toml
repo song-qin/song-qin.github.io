@@ -61,6 +61,30 @@ label = "Dolor"
 enable = true
 
 [[params.two.section]]
+img = "img/mirror.jpeg"
+title = 'The Mirror'
+body = '''
+The Mirror A mirror is like other people's opinions, carrying it on one's back is a burden. However, sometimes, other people's opinions may not be their own, but rather one's own. When one examines oneself, one is always oneself, and the mirror is just a mirror. It should not be a burden.
+
+In this film, Song Qin participated for the first time as the music director and co-producer of the project.
+'''
+
+[[params.two.section]]
+img = "img/island.jpeg"
+title = 'Island'
+body = "Animation Short Film 'Island' by SVA."
+
+[[params.two.section]]
+img = "img/blizzard.jpeg"
+title = 'Blizzard'
+body = '''
+Animation Short Film 'Blizzard' by SVA.
+
+In this project, Song Qin led the sound team as a sound supervisor for the first time to complete the creative work
+'''
+
+
+[[params.two.section]]
 img = "img/lfa.jpg"
 title = '<a href="https://www.instagram.com/reel/CibOR4zpZ53/?utm_source=ig_web_copy_link">Litac Film Advertisement 01</a>'
 body = ''
