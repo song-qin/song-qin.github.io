@@ -61,6 +61,11 @@ label = "Dolor"
 enable = true
 
 [[params.two.section]]
+img = "img/invitation.jpeg"
+title = '2023 Tidal New Youth Contemporary Art Exhibition (London) The Maze Game'
+body = ''
+
+[[params.two.section]]
 img = "img/mirror.jpeg"
 title = 'The Mirror'
 body = '''
